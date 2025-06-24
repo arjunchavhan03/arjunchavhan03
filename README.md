@@ -71,15 +71,24 @@
 | S.No | Major Project      |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
 |  01  | Airbnb clone       |[Link](https://github.com/arjunchavhan024/Airbnb-Project)|   [Repository](https://github.com/arjunchavhan024/Airbnb-Project)           |
+|  02  | Zerodha clone       |[----]|                                                     [Repository](https://github.com/arjunchavhan024/ZERODHA-CLONE)           |
+
 
 | S.No | Assignment Project      |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
 |  01  | SoftSell Investment App |[Link](https://softsell-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/SoftSell)           |
 |  02  | AgentGrid               |[Loding...](#)                                   |   [Repository](https://github.com/arjunchavhan024/AgentGrid)           |
-|  03  | Blog App                |[Link](https://github.com/arjunchavhan024/BlogApp)|   [Repository](https://github.com/arjunchavhan024/BlogApp)           |
-|  04  | Event Explorer          |[Link](https://eventexplorer-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/BookMyTicket)           |
-|  05  | Pokemon App             |[Link](https://pokemon-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/Pok-mon--Cards)           |
-|  06  | MCQ Game App            |[Link](https://mcq-game-app-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/MCQ-Game-App)           |
+|  03  | Artistly               |[Link](https://art-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/Artistly)  |
+|  04  | PropertyHub            |[Link](https://propertyhub-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/PropertyHub)  |
+|  05  | TaskFLow-AI            |[----]                                                |   [Repository](https://github.com/arjunchavhan024/taskflow)  |
+|  06  | SKINCARE            |[Link](https://skincare-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/SKINCARE)  |
+|  07  | Task Maneger            |[----])                                           |   [Repository](https://github.com/arjunchavhan024/TaskManage)  |
+|  08  | E-Commerce            |[Link](https://skincare-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/E-Commerce)  |
+|  09  |Inventory-Hub             |[----]                                            |   [Repository](https://github.com/arjunchavhan024/Inventory-Hub)  |
+|  10  | Blog App                |[Link](https://github.com/arjunchavhan024/BlogApp)|   [Repository](https://github.com/arjunchavhan024/BlogApp)           |
+|  11  | Event Explorer          |[Link](https://eventexplorer-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/BookMyTicket)           |
+|  12  | Pokemon App             |[Link](https://pokemon-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/Pok-mon--Cards)           |
+|  13  | MCQ Game App            |[Link](https://mcq-game-app-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/MCQ-Game-App)           |
 
 
 
