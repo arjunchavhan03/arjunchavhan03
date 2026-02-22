@@ -76,20 +76,22 @@
 
 | S.No | Assignment Project      |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | SoftSell Investment App |[Link](https://softsell-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/SoftSell)           |
-|  02  | AgentGrid               |[Loding...](#)                                   |   [Repository](https://github.com/arjunchavhan024/AgentGrid)           |
-|  03  | Artistly               |[Link](https://art-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/Artistly)  |
-|  04  | PropertyHub            |[Link](https://propertyhub-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/PropertyHub)  |
-|  05  | TaskFLow-AI            |[----]                                                |   [Repository](https://github.com/arjunchavhan024/taskflow)  |
-|  06  | SKINCARE            |[Link](https://skincare-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/SKINCARE)  |
-|  07  | VyomGarud            |[Link](https://vyomgarud-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/VyomGarud)  |
-|  08  | Task Maneger            |[----])                                           |   [Repository](https://github.com/arjunchavhan024/TaskManage)  |
-|  09  | E-Commerce            |[Link](https://skincare-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/E-Commerce)  |
-|  10  |Inventory-Hub             |[----]                                            |   [Repository](https://github.com/arjunchavhan024/Inventory-Hub)  |
-|  11  | Blog App                |[Link](https://github.com/arjunchavhan024/BlogApp)|   [Repository](https://github.com/arjunchavhan024/BlogApp)           |
-|  12  | Event Explorer          |[Link](https://eventexplorer-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/BookMyTicket)           |
-|  13  | Pokemon App             |[Link](https://pokemon-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/Pok-mon--Cards)           |
-|  14  | MCQ Game App            |[Link](https://mcq-game-app-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/MCQ-Game-App)           |
+|  01  | RateHub             |[----]                                                 |   [Repository](https://github.com/arjunchavhan024/RateHub)           |
+|  02  | CheatGuard AI         |[----]                                               | [Repository](https://github.com/arjunchavhan024/CheatGuard-AI)           |
+|  03  | SoftSell Investment App |[Link](https://softsell-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/SoftSell)           |
+|  04  | AgentGrid               |[Loding...](#)                                   |   [Repository](https://github.com/arjunchavhan024/AgentGrid)           |
+|  05  | Artistly               |[Link](https://art-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/Artistly)  |
+|  06  | PropertyHub            |[Link](https://propertyhub-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/PropertyHub)  |
+|  07  | TaskFLow-AI            |[----]                                                |   [Repository](https://github.com/arjunchavhan024/taskflow)  |
+|  08  | SKINCARE            |[Link](https://skincare-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/SKINCARE)  |
+|  09  | VyomGarud            |[Link](https://vyomgarud-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/VyomGarud)  |
+|  10  | Task Maneger            |[----])                                           |   [Repository](https://github.com/arjunchavhan024/TaskManage)  |
+|  11  | E-Commerce            |[Link](https://skincare-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/E-Commerce)  |
+|  12  |Inventory-Hub             |[----]                                            |   [Repository](https://github.com/arjunchavhan024/Inventory-Hub)  |
+|  13  | Blog App                |[Link](https://github.com/arjunchavhan024/BlogApp)|   [Repository](https://github.com/arjunchavhan024/BlogApp)           |
+|  14  | Event Explorer          |[Link](https://eventexplorer-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/BookMyTicket)           |
+|  15  | Pokemon App             |[Link](https://pokemon-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/Pok-mon--Cards)           |
+|  16  | MCQ Game App            |[Link](https://mcq-game-app-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/MCQ-Game-App)           |
 
 
 
